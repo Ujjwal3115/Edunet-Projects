@@ -1,0 +1,11 @@
+import streamlit as st
+st.write("thia is a test file")
+st.title("welcome to my app")
+st.title("hemloo goysss")
+st.header("ujjwal")
+st.subheader("verma")
+st.markdown("<marquee>News</marquee>",unsafe_allow_html=True)
+st.image("./img/i1.jpg")
+st.checkbox("hello")
+st.button("click karo")
+st.balloons()
